@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Peristaltic-Pump-PCB-rescue)(type Legacy)(uri "${KIPRJMOD}/Peristaltic Pump PCB-rescue.lib")(options "")(descr ""))
+)
